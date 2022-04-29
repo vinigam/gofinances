@@ -12,5 +12,13 @@ Android Studio and Nodejs installed (yarn optional)
 
 In folder of the application 
 ``` Nodejs 
+  yarn install
+```
+1st terminal
+``` Nodejs 
   yarn start
+```
+2d terminal
+``` Nodejs 
+  yarn android
 ```
